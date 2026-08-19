@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:aanushkashinde24@gmail.com"><img src="https://img.shields.io/badge/Email-aanushkashinde24%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra-blue?style=flat&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Phone-9766537976-25D366?style=flat&logo=whatsapp&logoColor=white"/>
 </p>
 
 ---
